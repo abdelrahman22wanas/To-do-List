@@ -1,4 +1,4 @@
-# Advanced Todo List
+# To-do List
 
 A modern, feature-rich todo list application built with vanilla JavaScript, HTML, and CSS.
 
